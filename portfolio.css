@@ -1,0 +1,72 @@
+body{
+    background-color:#e7fafc;
+    padding:20px;
+}
+h1{
+    color:#222;
+    text-align:center;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    margin: 0 18px;
+    border: 1px solid black;
+    padding: 8px;
+    font-weight:bold;
+    color:#222;
+    border-radius: 5px;
+}
+hr{
+    margin: 30px auto;
+    width: 800px;
+    border-top: 2px solid #222;
+}
+section{
+    background-color:white ;
+    width: 800px;
+    margin:30px auto ;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow:0 4px 12px rgb(14, 7, 58) ; 
+}
+figure{
+    text-align: center;
+}
+figure img{
+    border-radius: 50%;
+    border: 7px solid #e7fafc;
+}
+figcaption{
+    font-size:30px ;
+}
+section h2{
+    border-bottom: 2px solid #e7fafc;
+    padding-bottom: 10px;
+}
+form{
+    text-align: center;
+    font-size: 15px;
+}
+input,textarea{
+    width: 100%;
+    padding: 5px;
+}
+button{
+    margin-left: 25px;
+    padding: 10px;
+    background-color: rgb(68, 156, 185);
+    color:white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: cornflowerblue;
+    color: white;
+}
+
